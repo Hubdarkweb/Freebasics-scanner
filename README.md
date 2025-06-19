@@ -70,8 +70,8 @@ Installation
 
 Clone the repository:
 
-git clone https://github.com/TOpPLUG/Hubdarkweb.git
-cd Hubdarkweb
+git clone https://github.com/Hubdarkweb/Freebasics-scanner.git
+cd Freebasics-scanner 
 
 
 

@@ -1,3 +1,49 @@
+TOpPLUG-Hunters
+# **INSTALLATION**
+READ EVERYTHING TO UNDERSTAND 
+
+TOpPLUG HUNTER🕷🐼
+   ## Hello 👋
+
+<h1 align="center">ꪶ🐼🕷TOpPLUG🕷🐼-Hunterꫂ<br></h1>
+<p align="center">
+<img src="https://i.imgur.com/Gw7jtD0.jpeg, https://i.imgur.com/nB8i4tq.jpeg" />
+</p>
+<h1 align="center">ꪶ🐼🕷TOpPLUG🕷🐼-Hunterꫂ<br></h1>
+<p align="center">
+<img src="https://i.imgur.com/or4X9rl.jpeg,https://i.imgur.com/hoRK15o.jpeg" />
+</p>
+<h1 align="center">ꪶ🐼🕷TOpPLUG🕷🐼-Hunterꫂ<br></h1>
+<p align="center">
+<img src="https://i.imgur.com/tqP6Vsl.jpeg, https://i.imgur.com/Sfzusgg.jpeg" />
+</p>
+<h1 align="center">ꪶ🐼🕷TOpPLUG🔫🗽🏴‍☠️🎳-Hunterꫂ<br></h1>
+<p align="center">
+<img src="https://i.imgur.com/nB8i4tq.jpeg" />
+</p>
+<h1 align="center">ꪶ🐼🕷TOpPLUG🥷✈️🛸-Hunterꫂ<br></h1>
+<p align="center">
+<img src="https://i.imgur.com/hoRK15o.jpeg" />
+</p>
+<h1 align="center">ꪶ🐼🕷TOpPLUG🧑‍💻-Hunterꫂ⛷️🛫<br></h1>
+<p align="center">
+<img src="https://i.imgur.com/tqP6Vsl.jpeg, https://i.imgur.com/Sfzusgg.jpeg" />
+</p>
+<h1 align="center">ꪶ🐼🕷TOpPLUG🤿🛰️📡🧑‍💻-Hunterꫂ<br></h1>
+<p align="center">
+<img src="https://i.imgur.com/Sfzusgg.jpeg" />
+</p>
+<p align="center">
+🐼🕷TOpPLUG🕷🐼 Hunter Multiscanner <a href="https://github.com/Hubdarkweb" target="_blank">TOpPLUG</a> using <a href="https://github.com" target="_blank">TOpPLUG</a> and <a href="https://github.com/python" target="_blank">python</a>. Dont forget to give a star bro.
+</p>
+<p align="center">
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=EB+Garamond&weight=800&size=28&duration=4000&pause=1000&random=false&width=435&lines=+_____🐼🕷TOpPLUG🕷🐼_____;HOST+UNLIMITED+x+HUNTER+BOT;DEVELOPED+BY+🐼🕷TOpPLUG🕷🐼;REALESE+DATE+4%2F9%2F2024." alt="Typing SVG" /></a>
+</p>
+
+# TOpPLUG-Hunters Terminal installation 
+# TERMUX INSTALLATION MANUAL 
+how to scan using TOpPLUG-hunter
+**»»install the following on termux:**
 Proxy Tester
 
 
@@ -59,9 +105,9 @@ colorama: For colored terminal output.
 pystyle: For gradient text and banner styling.
 
 Install dependencies using:
-
+````
 pip install colorama pystyle
-
+````
 Installation
 
 
@@ -69,16 +115,16 @@ Installation
 
 
 Clone the repository:
-
+````
 git clone https://github.com/Hubdarkweb/Freebasics-scanner.git
 cd Freebasics-scanner 
 
-
+````
 
 Install the required Python packages:
-
+````
 pip install -r requirements.txt
-
+````
 
 
 Ensure you have a working proxy server (default: 157.240.195.32:8080).
@@ -86,10 +132,10 @@ Ensure you have a working proxy server (default: 157.240.195.32:8080).
 Usage
 
 Run the script with:
-
+````
 python proxy_tester.py
 
-
+````
 
 
 
